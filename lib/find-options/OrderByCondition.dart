@@ -1,0 +1,4 @@
+enum OrderByCondition {
+  ASC,
+  DESC,
+}
